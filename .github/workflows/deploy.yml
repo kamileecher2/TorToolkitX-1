@@ -23,16 +23,12 @@ jobs:
           HD_ALD_USR: ${{secrets.ALD_USR}}
           HD_BASE_URL_OF_BOT: ${{secrets.BASE_URL_OF_BOT}}
           HD_OWNER_ID: ${{secrets.OWNER_ID}}
-          HD_MAX_DL_LINK_SIZE: ${{secrets.MAX_DL_LINK_SIZE}}
-          HD_MAX_MEGA_LIMIT: ${{secrets.MAX_MEGA_LIMIT}}
-          HD_MAX_TORRENT_SIZE: ${{secrets.MAX_TORRENT_SIZE}}
           HD_GD_INDEX_URL: ${{secrets.GD_INDEX_URL}}
           HD_MEGA_API: ${{secrets.MEGA_API}}
           HD_MEGA_ENABLE: ${{secrets.MEGA_ENABLE}}
           HD_MEGA_PASS: ${{secrets.MEGA_PASS}}
           HD_MEGA_UNAME: ${{secrets.MEGA_UNAME}}
           HD_TG_UP_LIMIT: ${{secrets.TG_UP_LIMIT}}
-          HD_ENABLE_BETA_YOUTUBE_DL: ${{secrets.ENABLE_BETA_YOUTUBE_DL}}
           HD_QBIT_HOST: ${{secrets.QBIT_HOST}}
           HD_QBIT_PORT: ${{secrets.QBIT_PORT}}
           HD_QBIT_UNAME: ${{secrets.QBIT_UNAME}}
