@@ -30,7 +30,7 @@ no = "❌"
 yes = "✅"
 # Central object is not used its Acknowledged
 tordb = TorToolkitDB()
-header = 'kamileecher'
+header = 'kamileecher settings'
 
 
 async def handle_setting_callback(e):
